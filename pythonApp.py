@@ -1,3 +1,4 @@
+Print "Pythonapp-v1.2"
 name=raw_input("enter ur name: ")
 gender=raw_input("are u F/M: ")
 status=raw_input("married/unmarried: ")
