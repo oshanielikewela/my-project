@@ -1,4 +1,4 @@
-Print "Pythonapp-v1.2"
+Print "Pythonapp-v1.2.1"
 name=raw_input("enter ur name: ")
 gender=raw_input("are u F/M: ")
 status=raw_input("married/unmarried: ")
